@@ -95,3 +95,15 @@
     box-shadow: var(--color-shadow);
   }
 
+  .fav {
+    text-align: right;
+    margin-right: 30px;
+    margin-top: 15px;
+    height: 100px;
+  }
+  
+  .notes a{
+    text-decoration: none;
+    font-size: 32px;
+  }
+  
